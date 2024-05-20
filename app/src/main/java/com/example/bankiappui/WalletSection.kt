@@ -44,7 +44,7 @@ fun WalletSection(){
                 )
             Spacer(modifier = Modifier.height(8.dp))
             Text(
-                text = "Khs 12.000",
+                text = "Khs 140,000",
                 fontSize = 24.sp,
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onBackground
